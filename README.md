@@ -52,14 +52,14 @@ The solution leverages **NLP + Machine Learning** to classify customer reviews a
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone Repo  
+ Clone Repo  
 ```bash
 git clone https://github.com/your-username/word2vecandglove.git
 cd word2vecandglove
 
-### 2️⃣ Install Dependencies
+ Install Dependencies
 pip install -r requirements.txt
-### 3️⃣ Run Notebook / Script
+ Run Notebook / Script
 jupyter notebook Sentiment_Analysis.ipynb
 # OR
 python train_model.py
